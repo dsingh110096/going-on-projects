@@ -1,0 +1,105 @@
+body{
+  
+   font: 17px "Montserrat", sans-serif;
+   line-height: 30px;
+   height: 2600px;
+  }
+   .navbar-default{
+  background-color:#ffffff;
+ 
+  }
+   .small-logo-1{
+    color:#00bfe7;
+	font-size:35px;
+	padding-top:0px;
+  }
+  .small-logo-4{
+    background:#00bfe7;
+	color:#fff;
+	font-size:17px;
+	padding:11px 10px;
+	height:35px;
+	width:35px;
+	border-radius:5px;
+	margin-left:-15px;
+
+  }
+  	  
+	  
+	  
+  
+  .small-logo-3{
+	font-size:22px;
+	padding-top:5px;
+  }
+   .small-logo-2{
+   color:#00bfe7;
+  }
+  logo-2{
+	font-size:22px;
+	padding-top:5px;
+  }
+  .form-control{
+	height:40px;
+    display: inline;
+	 letter-spacing:2.5px;
+	 
+}
+#question{
+	width:160px;
+	height:40px;
+	font-size:20px;
+	border:4px;
+
+	
+	
+	
+}
+#question:hover{
+	
+	
+	
+}
+.bg_1{
+padding-top:100px;
+
+}
+.bg-2{
+color:#a29c99;
+}
+.padng{
+padding-top:25px;
+
+
+}
+#follow{
+
+margin-left:10px;	
+	
+
+	
+}
+.padng_left{
+margin-left:10px;
+
+}
+	   hr{
+    height: 6px;
+    background: #e7e7e7;
+  }
+  btn_style{
+  padding:10px;}
+
+.custom {
+    width:108px;
+    
+}
+
+
+@media (max-width: 768px) {
+
+
+
+
+
+}
